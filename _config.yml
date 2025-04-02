@@ -1,0 +1,19 @@
+title: Eli Gonzalez
+description: AI Cybersecurity Consultant | Offensive Security | GPT Tooling
+baseurl: "" # Keep blank unless using a subdirectory
+url: "https://elidgonzalez.com"
+
+author:
+  name: Eli D. Gonzalez
+  email: elidgonzalez555@proton.me
+  github: elidgonzalezAI
+  linkedin: elidgonzalez
+  website: elidgonzalez.com
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
